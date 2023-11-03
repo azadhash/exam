@@ -406,6 +406,9 @@ small {
   .second-section>div>article>p {
     font-size: 1.5rem;
   }
+  .banner_image{
+    margin-top: 2rem;
+  }
 }
 @media screen and (max-width: 850px) {
   .second-section>div>img {
